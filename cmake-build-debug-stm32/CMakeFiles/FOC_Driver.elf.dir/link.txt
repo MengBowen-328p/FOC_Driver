@@ -1,0 +1,1 @@
+C:\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe -g -Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/15216/Desktop/FOC_Driver/cmake-build-debug-stm32/FOC_Driver.map -mcpu=cortex-m3 -mthumb -mthumb-interwork -T C:/Users/15216/Desktop/FOC_Driver/STM32F103CBTX_FLASH.ld @CMakeFiles\FOC_Driver.elf.dir\objects1.rsp -o FOC_Driver.elf 
